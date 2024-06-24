@@ -7,6 +7,8 @@
 
 This Interactive Voice Response (IVR) System is a powerful automation solution built using the Twilio API. It is designed to initiate calls, record conversations, transcribe the calls, extract digits from the transcriptions, and save the extracted data in a text file. This system offers a versatile and efficient way to handle voice communication and data extraction.
 
+![IVR system design](https://github.com/Faluyi/IVR-System/assets/83612442/df0a5c88-5bc5-472c-9d30-849ee7e95fac)
+
 ## Features
 
 - **Call Initiation:** The IVR system can initiate calls to active phone numbers.
